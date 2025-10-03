@@ -90,4 +90,4 @@ No dudes en:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE` (si lo agregas).
+Este proyecto está bajo la Licencia MIT. 
