@@ -19,11 +19,6 @@ Fue un desafío emocionante aprender a usar la librería `requests` para realiza
 
 ---
 
-## Demostración (Opcional: Si tienes una captura de pantalla)
-
-Aquí puedes ver la aplicación en acción:
-
-![Captura de pantalla de la aplicación](screenshot.png) ---
 
 ## ¿Cómo Usar?
 
